@@ -31,6 +31,7 @@ public class shellGameSimulator {
             case 2: game.Statistics(totalGames);
                userResponse= game.UserPrompt();
                break;
+            //default case statement
             default: System.out.println("Default case reached.");
             break;			
          }//end switch
