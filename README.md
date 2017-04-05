@@ -8,15 +8,14 @@ This program was implemented using the Eclipse SDK Version: 4.2.0
 
 
 Sample Output:
-
 Main Menu:
 1) Play the Shell Game
 2) View Play Session Statistics
 3) Exit
 1
-//    /¯¯¯\         /¯¯¯\         /¯¯¯\   
-//   /  1  \       /  2  \       /  3  \  
-//  /       \     /       \     /       \ 
+    /¯¯¯\         /¯¯¯\         /¯¯¯\   
+   /  1  \       /  2  \       /  3  \  
+  /       \     /       \     /       \ 
 
 Guess where the peanut is: fasd
 Please Enter A Valid Integer NUMBER Between 1-3!
