@@ -14,9 +14,9 @@ Main Menu:
 2) View Play Session Statistics
 3) Exit
 1
-    /¯¯¯\         /¯¯¯\         /¯¯¯\   
-   /  1  \       /  2  \       /  3  \  
-  /       \     /       \     /       \ 
+//    /¯¯¯\         /¯¯¯\         /¯¯¯\   
+//   /  1  \       /  2  \       /  3  \  
+//  /       \     /       \     /       \ 
 
 Guess where the peanut is: fasd
 Please Enter A Valid Integer NUMBER Between 1-3!
