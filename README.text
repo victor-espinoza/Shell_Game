@@ -1,4 +1,4 @@
-Project Overview: 
+Project Overview:  
 This program implements to popular shell game where a ball is hidden under a random cup and the user tries to guess which cup is hiding the ball.
    
 The logic for this program is very simple and straightforward. At the start of the game, a random number between 1-3 is generated to determine which cup the peanut will be hidden under. The user then guesses which cup has the peanut under it. After the user input is received, I then compare the user's guess to the cup number that the peanut is hidden under. If those numbers match, then the user guessed correctly and they are notified that they won. If this was not the case, then the user has guessed incorrectly and I notify them that they have lost. The user can then choose to play a new Shell Game game, view their playing session statistics, or exit the program. That is the gist of how this program works. 
